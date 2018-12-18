@@ -1,0 +1,42 @@
+body{
+    background: rgb(0, 255, 200);
+    
+
+}
+
+img {
+    width: 100%;
+    
+}
+
+body div { 
+    background: white;
+    padding: 50px;
+    width: 600px;
+    margin: 0 auto;
+}
+
+
+ h6 img {
+    position: relative;
+    width: 16px;
+    margin-left: 8px;
+    top: 4px;
+    color: gray;
+}
+.video{
+    border: 20px;
+    
+}
+
+
+button {
+    background: blue;
+    color:white;
+    border: none;
+    height: 50px;
+    border-radius: 5px;
+    padding: 20px;
+    text-transform: uppercase;
+
+}
